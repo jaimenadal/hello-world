@@ -1,2 +1,4 @@
 # hello-world
-This is a new repository.
+My name is Jaime, I'm new to coding but I am willing to learn how to code.
+
+
