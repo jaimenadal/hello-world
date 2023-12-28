@@ -1,7 +1,0 @@
-This is file1.txt
-new modification
-I add this new line
-test1
-test2
-test3
-ke
